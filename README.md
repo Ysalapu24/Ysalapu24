@@ -1,7 +1,8 @@
 <!-- Optional: Header banner image -->
 <!-- Replace with your own banner or remove this line -->
 <p align="center">
-  <img src="https://chatgpt.com/ca3cb14d-334a-4998-a36c-8569f2a57c53" alt="Banner" width="100%" />
+  <img src="<img width="1024" height="1024" alt="ChatGPT Image Sep 6, 2025, 05_21_42 PM" src="https://github.com/user-attachments/assets/451b2de5-e313-40ea-a2a4-a80d7c87bb21" />
+" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Yesh 👋</h1>
