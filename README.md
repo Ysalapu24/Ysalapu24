@@ -1,7 +1,7 @@
 <!-- Optional: Header banner image -->
 <!-- Replace with your own banner or remove this line -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=1600&q=80" alt="Banner" width="100%" />
+  <img src="blob:https://chatgpt.com/ca3cb14d-334a-4998-a36c-8569f2a57c53" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Yesh 👋</h1>
