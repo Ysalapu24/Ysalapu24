@@ -4,7 +4,7 @@
   <img src="< >" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Yesh 👋</h1>
+<h1 align="center">Hi there, I'm Yeshwanth Salapu 👋</h1>
 
 <p align="center">
   <em>Student • Cloud computing & AI Enthusiast • Problem Solver</em>
@@ -20,7 +20,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 I’m **Yesh**, a student based in **Texas**, passionate about **cloud computing** and **AI/ML**.
+- 🎓 I’m **Yeshwanth Salapu**, a student based in **Houston, Texas**, passionate about **cloud computing** and **AI/ML**.
 - 🧩 I enjoy turning ideas into working prototypes—especially tools that automate workflows or make learning easier.
 - 🤝 Open to entry level positions, and interesting side projects in:
   - Cloud apps & APIs
