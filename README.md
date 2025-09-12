@@ -35,7 +35,6 @@
 |---|---|---|
 | [Portfolio Website](https://YOUR_PORTFOLIO_URL) | Personal site & project hub | HTML, CSS, (optional: React) |
 | [Smart Inventory Demo](https://github.com/YOUR_USERNAME/smart-inventory-demo) | Low-stock alerts & basic analytics | Python, SQLite, Flask |
-| [AI Notes Helper](https://github.com/YOUR_USERNAME/ai-notes-helper) | Summarizes and organizes study notes | Python, Transformers |
 | [Mini Cloud Monitor](https://github.com/YOUR_USERNAME/cloud-monitor) | Checks uptime & pings endpoints | Node.js, Express |
 
 > Tip: Pin 3–6 repos on your GitHub Profile → Customize your pins for a clean front page.
@@ -68,8 +67,8 @@
 ### 📈 GitHub Stats
 <!-- Replace YOUR_USERNAME with your actual GitHub username -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ysalapu24&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ysalapu24&hide_border=true" height="165" />
 </p>
 
 <!-- Optional: Top Languages card (be mindful—it reflects public repos only) -->
