@@ -77,7 +77,7 @@
 
 ### 💬 Let’s Connect
 - 📫 Reach me: **yeshsalapu2@gmail.com**
-- 💼 LinkedIn: **/in/yeshwanth-salapu-a257b7291/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/yeshwanth-salapu-a257b7291/**
 - 🌐 Portfolio: **YOUR_PORTFOLIO_URL**
 
 ---
