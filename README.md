@@ -1,6 +1,6 @@
  
 <p align="center">
- <img src="https://raw.githubusercontent.com/Ysalapu24/Ysalapu24/main/linkedin_banner_yeshwanth.png" alt="Banner" width="100%" />
+ <img src="https://raw.githubusercontent.com/Ysalapu24/Ysalapu24/main/linkedin_banner_yeshwanth.png" alt="Banner" width="100%" /> 
 </p>
 
 <h1 align="center">Hi there, I'm Yeshwanth Salapu 👋</h1>
