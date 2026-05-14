@@ -13,7 +13,7 @@
   <!-- Social badges (replace the links) -->
   <a href="https://www.linkedin.com/in/yeshwanth-salapu-a257b7291/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
   <a href="mailto:yeshsalapu2@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-informational" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-success" /></a>
+  <a href="https://ysalapu24.github.io/prtfolio-website/"><img src="https://img.shields.io/badge/Portfolio-Visit-success" /></a>
 </p>
 
 ---
@@ -32,7 +32,7 @@
 <!-- Replace rows with your real repos. Keep the concise “what it is” + tech stack style. -->
 | Project | What it does | Tech |
 |---|---|---|
-| [Portfolio Website](https://YOUR_PORTFOLIO_URL) | Personal site & project hub | HTML, CSS, (optional: React) |
+| [Portfolio Website](https://ysalapu24.github.io/prtfolio-website/) | Personal site & project hub | HTML, CSS, (optional: React) |
 | [Smart Inventory Demo](https://github.com/YOUR_USERNAME/smart-inventory-demo) | Low-stock alerts & basic analytics | Python, SQLite, Flask |
 | [Mini Cloud Monitor](https://github.com/YOUR_USERNAME/cloud-monitor) | Checks uptime & pings endpoints | Node.js, Express |
 
@@ -78,7 +78,7 @@
 ### 💬 Let’s Connect
 - 📫 Reach me: **yeshsalapu2@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/yeshwanth-salapu-a257b7291/**
-- 🌐 Portfolio: **YOUR_PORTFOLIO_URL**
+- 🌐 Portfolio: **https://ysalapu24.github.io/prtfolio-website/**
 
 ---
 
