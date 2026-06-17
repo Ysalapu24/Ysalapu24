@@ -30,12 +30,12 @@
 
 | # | Project | What it does | Tech |
 |---|---------|--------------|------|
-| 01 | [JARVIS](https://github.com/Ysalapu24) | Iron Man-inspired AI voice assistant — wake word, ElevenLabs TTS, Gmail/Calendar/Drive/WhatsApp integrations, Flutter app & Siri shortcuts | Python, Flutter, FastAPI, ElevenLabs, Google APIs |
-| 02 | [HalluGuard for Retail](https://github.com/Ysalapu24) | Hallucination detection layer for retail AI — validates AI-generated product info against a RAG knowledge base | Python, FastAPI, Claude API, RAG |
+| 01 | [JARVIS](https://github.com/Ysalapu24/Jarvis) | Iron Man-inspired AI voice assistant — wake word, ElevenLabs TTS, Gmail/Calendar/Drive/WhatsApp integrations, Flutter app & Siri shortcuts | Python, Flutter, FastAPI, ElevenLabs, Google APIs |
+| 02 | [HalluGuard for Retail](https://github.com/Ysalapu24/halluguard-extension) | Hallucination detection layer for retail AI — validates AI-generated product info against a RAG knowledge base | Python, FastAPI, Claude API, RAG |
 | 03 | [Community Engagement Dashboard](https://github.com/Ysalapu24/CommunityEngagementDashboard) | Real-time Discord & Slack sentiment analysis dashboard with engagement trend tracking | Python, Streamlit, Discord API, Slack API, NLP |
-| 04 | [Food Safety Recall Middleware](https://github.com/Ysalapu24) | Multi-agent AI pipeline monitoring FDA recall data and routing alerts to stakeholders | Dialogflow CX, Flowise, Node.js, REST API |
-| 05 | [Glass Classification System](https://github.com/Ysalapu24) | ML-powered forensic glass type classifier with React frontend and Flask API | Python, scikit-learn, Flask, React |
-| 06 | [Office Workplace Database](https://github.com/Ysalapu24) | Relational DB system for office operations — normalized schema, complex queries, stored procedures | PostgreSQL, SQL |
+| 04 | [Food Safety Recall Middleware](https://github.com/Ysalapu24/food-safety-middleware) | Multi-agent AI pipeline monitoring FDA recall data and routing alerts to stakeholders | Dialogflow CX, Flowise, Node.js, REST API |
+| 05 | [Glass Classification System](https://github.com/Ysalapu24/glass-classification) | ML-powered forensic glass type classifier with React frontend and Flask API | Python, scikit-learn, Flask, React |
+| 06 | [Office Workplace Database](https://github.com/Ysalapu24/office-workplace-db) | Relational DB system for office operations — normalized schema, complex queries, stored procedures | PostgreSQL, SQL |
 | 07 | [Lego Brick Counter](https://github.com/Capstone-4901-Team-NextGen-Solutions/Lego-Brick-Counter) | CV-based brick identifier, inventory matcher & set suggester — UNT Capstone | Python, Flask, OpenCV, Flutter, Azure CV, SQLite |
 | 08 | [Video Segmentation System](https://github.com/Ysalapu24/video-segmentation) | Detects scene transitions & exports each clip using histogram analysis | Python, OpenCV, NumPy, Matplotlib |
 | 09 | [Smart Inventory Demo](https://github.com/Ysalapu24/smart-inventory-demo) | Low-stock alerts, CRUD API & analytics dashboard | Python, Flask, SQLite, REST API |
